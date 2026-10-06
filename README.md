@@ -2,6 +2,8 @@
 
 Final-year Software Engineering student focused on backend development.
 
+Currently seeking a 4–6 month software engineering or backend development internship starting around February 2027.
+
 ## Current Focus
 
 * Python
